@@ -18,7 +18,6 @@
         <li><a href="#built-with">Built With</a></li>
     </li>
     <li><a href="#features">Features</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
         
@@ -74,11 +73,7 @@
 
 
 
-## License
 
-See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#Project">back to top</a>)</p>
 
 
 
