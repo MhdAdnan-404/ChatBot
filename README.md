@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 
@@ -49,16 +49,19 @@
 <h4>
   <p>
   This project represents an initial step toward developing a virtual assistant reminiscent of Jarvis from the Iron Man series. Utilizing natural language processing techniques and a Bag of Words model, the AI system adeptly interprets user inputs, eliminating the need for predefined commands. Its functionality extends to retrieving information across diverse domains by harnessing multiple external APIs.
+  </p>
 </h4>
 
 <h4>
   <p>
   For instance, users can request information about the weather, and the AI will discern the user's intent, subsequently initiating a call to a weather API to retrieve the pertinent data, which it will then present to the user. Similarly, users can inquire about current COVID-19 statistics, with the AI comprehending the user's request and subsequently accessing the relevant API to fetch and display the COVID-19 data.
+    </p>
 </h4>
 
 h4>
   <p>
  Furthermore, the AI is equipped to assist users in accessing the most pertinent research papers on specific topics of interest. When users request research papers on particular subjects, the AI will communicate with the designated API responsible for retrieving research papers, passing along the user's specified topic. It will then present the user with a selection of the top 10 highest-rated papers related to the requested topic. change the first paragraph
+    </p>
 </h4>
 
 
