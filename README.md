@@ -58,7 +58,7 @@
     </p>
 </h4>
 
-h4>
+<h4>
   <p>
  Furthermore, the AI is equipped to assist users in accessing the most pertinent research papers on specific topics of interest. When users request research papers on particular subjects, the AI will communicate with the designated API responsible for retrieving research papers, passing along the user's specified topic. It will then present the user with a selection of the top 10 highest-rated papers related to the requested topic. change the first paragraph
     </p>
